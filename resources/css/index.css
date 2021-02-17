@@ -1,0 +1,139 @@
+/*BODY ATTRIBUTES*/
+
+.container {
+    border: 1px solid black;
+    border-bottom: 0.5px;
+    height: 25rem;
+    display: inline-block;
+    width: 100%;
+    
+}
+
+/*COLORS SECTION*/
+.colors--container {
+    display: inline-flex;
+    width: 100%;
+    font-size: 22px;
+    text-align: center;
+
+}
+.a {
+    background-color:#D9D7D7;
+    width: 17%;
+    height: 20rem;
+    margin: 5px;
+    
+}
+.b {
+    background-color: #010D00;
+    color: white;
+    width: 17%;
+    height: 20rem;
+    margin: 5px;
+    
+}
+.c {
+    background-color:#BFAB49;
+    width: 17%;
+    height: 20rem;
+    margin: 5px;
+}
+.d {
+    background-color: #8C7B6C;
+    color: white;
+    width: 17%;
+    height: 20rem;
+    margin: 5px;
+}
+.e {
+    background-color: #BFADA3;
+    width: 17%;
+    height: 20rem;
+    margin: 5px;
+}
+
+/*FONTS SECTION*/
+
+.fonts--container {
+    display: inline-flex;
+    margin-left: 10rem;
+}
+
+ul {
+    list-style-type: none;
+    line-height: 3rem;
+}
+
+li {
+    font-size: 24px;
+}
+
+.font--family {
+    text-decoration: underline;
+    font-size: 28px;
+}
+
+.light {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 200;
+}
+
+.regular {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+
+.bold {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+
+.fontbox--2 {
+    margin-left: 10rem;
+}
+
+.light--2 {
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: 300;
+}
+
+.regular--2 {
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: 400;
+}
+
+.bold--2 {
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: 700;
+}
+/*TEXT STYLE SECTION*/
+.container--3 {
+    border: 1px solid black;
+    height: 33rem;
+    display: inline-block;
+    width: 100%;
+}
+
+.text--styles--list {
+    list-style-type: circle;
+    margin-left: 4rem;
+    opacity: 90%;
+}
+
+.text--style--heading {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    margin-left: 2rem;
+
+}
+
+.text--style--subheading{
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 28px;
+    font-weight: 700;
+    margin-left: 2rem;
+}
+
+
+
+
